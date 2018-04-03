@@ -1,29 +1,21 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
-    "version": "4.0.0",
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "title": "Meludic",
+    "name": "meludic-landing",
+    "version": "0.0.1",
+    "description": "Meludic landing page HTML.",
     "keywords": [
         "css",
         "sass",
         "html",
         "responsive",
-        "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/new-age",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://meludic.com",
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Murilo Polese <murilopolese@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+        "url": "https://github.com/murilopolese/meludic-landing.git"
     },
     "dependencies": {
         "bootstrap": "4.0.0",

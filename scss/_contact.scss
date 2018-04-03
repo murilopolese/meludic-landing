@@ -12,7 +12,7 @@ section.contact {
         margin-bottom: 0;
         li {
             a {
-                font-size: 40px;
+                font-size: 45px;
                 line-height: 80px;
                 display: block;
                 width: 80px;
@@ -41,6 +41,18 @@ section.contact {
                     background-color: $brand-google-plus;
                     &:hover {
                         background-color: darken($brand-google-plus, 5%);
+                    }
+                }
+            }
+            &.social-instagram {
+                a {
+                    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+                     // -webkit-background-clip: text;
+                     //         /* Also define standard property for compatibility */
+                     //         background-clip: text;
+                     // -webkit-text-fill-color: transparent;
+                    &:hover {
+                        opacity: 0.8;
                     }
                 }
             }
